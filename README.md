@@ -1,2 +1,2 @@
 # Data-Analytics-Program-GFG
-![GFG](https://github.com/user-attachments/assets/c9980ed1-9468-4a40-9108-11c7c0303203)
+![ds](https://github.com/user-attachments/assets/3d14b69e-f6cf-4aae-9e6a-634e7476de92)
